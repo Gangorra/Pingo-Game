@@ -9,6 +9,6 @@ Em meio a tempestade e as ventanias os ovos dos pingos acabam rolando ladeira ab
 
 Sua missão é ajudar Pingo a resgatar seus irmãos indefesos em alto mar, boa sorte. 😃
 
-Link🔗: [Pingo Game](https://gangorra.github.io/pingo-game/)
+Link🔗: [Pingo Game](https://felipegangorra.github.io/pingo-game/)
 
 ![Pingo Game](https://media.discordapp.net/attachments/1091746940225593467/1091747263728058438/Captura_de_tela_de_2023-03-31_22-01-13.png?width=892&height=429)
