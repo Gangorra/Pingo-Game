@@ -1,6 +1,10 @@
 # Pingo-Game 🐧
 
-Pingo Game é um jogo de navegador baseado no famoso jogo da cobrinha, criado com HTML, JavaScript e CSS.<br>
+Jogo de navegador baseado no jogo da cobrinha.
+
+>Linguagens/Ferramentas: HTML, CSS e JavaScript
+
+<br>
 
 ### HISTÓRIA 📖
 
@@ -11,4 +15,4 @@ Sua missão é ajudar Pingo a resgatar seus irmãos indefesos em alto mar, boa s
 
 Link🔗: [Pingo Game](https://felipegangorra.github.io/pingo-game/)
 
-![Pingo Game](https://media.discordapp.net/attachments/1091746940225593467/1091747263728058438/Captura_de_tela_de_2023-03-31_22-01-13.png?width=892&height=429)
+![Pingo Game](img/pingo_game.png)

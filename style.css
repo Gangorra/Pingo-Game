@@ -1,44 +1,45 @@
 body{
-    background: rgba(159,239,0,255);
+    margin: 0;
+    padding: 0;
+    background: white;
 }
+
 
 .container{
     max-height: 625px;
-    width: 95;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     background-color: rgba(26,35,50,255);
-    padding: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-sizing: border-box;
     background-image: url('img/fundo.jpg');
+    background-size: cover; /* Adicionado para cobrir toda a tela de maneira responsiva */
+    background-position: center; /* Adicionado para centralizar a imagem */
+    padding: 10px;
 }
 
 h1{
-    color: yellow;
+    color: #FFD700;
     padding-top: 5px;
 }
 
 .pontos{
-    color: white;
+    color: preto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 16px;
 }
 
 .game-over{
     color: rgb(243, 42, 7);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    padding-bottom: 20px;
 }
 
 .score {
-    color: #00ff00;
+    color: #e94808;
     font-family: 'Arial Black', Helvetica, sans-serif;
-    font-size: 20px;
-    padding-bottom: 20px;
 }
 
 .bg-footer{
@@ -63,4 +64,6 @@ h1{
 canvas {
     border: 1px solid black;
     box-shadow: 4px 4px 4px 2px #121312;
+    max-width: 100%;
+    height: auto;
 }
